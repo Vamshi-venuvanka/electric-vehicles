@@ -1,1 +1,3 @@
 # electric-vehicles
+
+dashboard ink:https://app.powerbi.com/view?r=eyJrIjoiNGExNDJiYzgtNzgwZi00OGUyLWE3ZTYtYThiNTVkZDU0NGRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
